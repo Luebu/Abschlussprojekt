@@ -1,2 +1,3 @@
-public class Vorstand {
+public class Vorstand extends Mitglied{
+
 }
