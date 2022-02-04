@@ -1,4 +1,4 @@
-public class Migleid {
+public class Mitglied {
     private String name;
     private int alter;
 

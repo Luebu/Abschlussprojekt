@@ -2,10 +2,10 @@ public class Halle {
     private Verein mieterliste;
     private double platz;
 
-    public void mieten(pVerein Verein){
+    public void mieten(Verein pVerein ){
 
     }
-    public void freigeben(pVerein Verein) {
+    public void freigeben(Verein pVerein) {
 
     }
 
