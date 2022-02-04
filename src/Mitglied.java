@@ -3,7 +3,7 @@ public class Mitglied {
     private int alter;
 
     public String terminEinsehen() {
-        String termin;
+        String termin = null; //null nur um errormeldungen zu vermieden
         return termin;
     }
 
